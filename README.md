@@ -63,4 +63,3 @@ Program akan menampilkan jendela yang menunjukkan perbandingan antara:
 ```bash
 pip install opencv-python numpy matplotlib
 
-*Tugas ini disusun sebagai laporan resmi untuk memenuhi penilaian Praktikum 10.*
